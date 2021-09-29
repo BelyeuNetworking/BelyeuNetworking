@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @BelyeuNetworking
+- 👀 I’m interested in ...
+    -intrested in secutrity and coding 
+- 🌱 I’m currently learning ...
+    -currently enrolled in school
+- 💞️ I’m looking to collaborate on ...
+    -coding and/or hacking 
+- 📫 How to reach me ...
+
+<!---
+BelyeuNetworking/BelyeuNetworking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
